@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Food Share Donation App</string>
+    <string name="donation_home_bottom_nav">Home</string>
+    <string name="history">History</string>
+    <string name="welcome_message">Welcome to FoodShare foundation! we are honoured to have you here\n</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet consectetur. Magna a tellus hendrerit sed. Mauris pellentesque risus turpis natoque dictum.</string>
+    <string name="home">Home</string>
+</resources>

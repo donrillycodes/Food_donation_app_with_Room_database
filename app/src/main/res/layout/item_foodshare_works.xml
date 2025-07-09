@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="12dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/image_view_item"
+            android:layout_margin="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/news_title"
+            android:text="DownTown winnipeg"
+            android:layout_toEndOf="@id/image_view_item"
+            android:layout_marginTop="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/news_description_text"
+            android:textSize="14dp"
+            android:text="@string/dummy_text"
+            android:layout_toEndOf="@id/image_view_item"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/news_title" />
+
+    </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
