@@ -46,12 +46,12 @@ Then reference them like this:
 
 <table>
   <tr>
-    <td><img src="./screens/onboarding-home.png" width="250"/></td>
-    <td><img src="./screens/donate-now.png" width="250"/></td>
+    <td><img alt="Onboarding Home" src="./screens/onboarding-home.png" width="250"/></td>
+    <td><img alt="Donate Now" src="./screens/donate-now.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="./screens/login.png" width="250"/></td>
-    <td><img src="./screens/donation-history.png" width="250"/></td>
+    <td><img alt="Login" src="./screens/login.png" width="250"/></td>
+    <td><img alt="Donation History" src="./screens/donation-history.png" width="250"/></td>
   </tr>
 </table>
 
