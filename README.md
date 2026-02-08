@@ -34,12 +34,12 @@ This Android application allows users to donate food, track donations, and manag
 
 Then reference them like this:
 
-![Onboarding](./screens/onboarding-home.png)
-![Login](./screens/login.png)
-![Signup](./screens/signup.png)
-![Home Screen](./screens/donation-home.png)  
-![Add Donation](./screens/donate-now.png)
-![Donation List](./screens/donation-history.png)
+![Onboarding](/screens/onboarding-home.png)
+![Login](/screens/login.png)
+![Signup](/screens/signup.png)
+![Home Screen](/screens/donation-home.png)  
+![Add Donation](/screens/donate-now.png)
+![Donation List](/screens/donation-history.png)
 
 ---
 
