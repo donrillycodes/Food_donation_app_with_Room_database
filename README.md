@@ -44,16 +44,35 @@ Then reference them like this:
 ---
 ## 📱 App Screenshots
 
+### Onboarding & Authentication
+
 <table>
   <tr>
-    <td><img alt="Onboarding Home" src="./screens/onboarding-home.png" width="250"/></td>
-    <td><img alt="Donate Now" src="./screens/donate-now.png" width="250"/></td>
-  </tr>
-  <tr>
-    <td><img alt="Login" src="./screens/login.png" width="250"/></td>
-    <td><img alt="Donation History" src="./screens/donation-history.png" width="250"/></td>
+    <td><img alt="Onboarding Home" src="./screens/onboarding-home.png" width="220"/></td>
+    <td><img alt="Onboarding" src="./screens/onbaording.png" width="220"/></td>
+    <td><img alt="Signup" src="./screens/signup.png" width="220"/></td>
+    <td><img alt="Login" src="./screens/login.png" width="220"/></td>
   </tr>
 </table>
+
+### Dashboard & Donating
+
+<table>
+  <tr>
+    <td><img alt="Dashboard" src="./screens/donation-home.png" width="220"/></td>
+    <td><img alt="Donate" src="./screens/donate-now.png" width="220"/></td>
+    <td><img alt="Logout Home" src="./screens/logout.png" width="220"/></td>
+  </tr>
+</table>
+
+## Donation History
+
+<table>
+  <tr>
+    <td><img alt="Chat" src="./screens/donation-history.png" width="250"/></td>
+  </tr>
+</table>
+
 
 
 
