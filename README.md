@@ -28,20 +28,6 @@ This Android application allows users to donate food, track donations, and manag
 | Reactive Updates | LiveData / ViewModel |
 
 ---
-
-## 📂 Project Structure
-
-
-Then reference them like this:
-
-![Onboarding](./screens/onboarding-home.png)
-![Login](./screens/login.png)
-![Signup](./screens/signup.png)
-![Home Screen](./screens/donation-home.png)  
-![Add Donation](./screens/donate-now.png)
-![Donation List](./screens/donation-history.png)
-
----
 ## 📱 App Screenshots
 
 ### Onboarding & Authentication
@@ -72,8 +58,6 @@ Then reference them like this:
     <td><img alt="Chat" src="./screens/donation-history.png" width="250"/></td>
   </tr>
 </table>
-
-
 
 
 ## 👤 Developer
